@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Twis!</h2>
+<h2 align="left">Hi 👋! My name is Twis and I'm a man from China</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejN1b3Y1aGduZGo2cXZjNXJzYnVhNHNvb2JhZHk3N2NyZDY0cHY5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lI4bYmcsPJX9Go/giphy.gif"  />
 
 ###
 
